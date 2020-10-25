@@ -1,6 +1,6 @@
 public class hello {
     public static void main(string[] args){
-        system.out.printIn("vs code is awsome..");
+        system.out.println("vs code is awsome..");
         gretting("salman masud")
     }
 
